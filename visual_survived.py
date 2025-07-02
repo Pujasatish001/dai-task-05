@@ -1,0 +1,5 @@
+sns.countplot(x='Survived', data=train)
+plt.title("Survival Count")
+plt.xlabel("Survived (0 = No, 1 = Yes)")
+plt.ylabel("Count")
+plt.show()
