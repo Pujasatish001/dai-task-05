@@ -7,7 +7,6 @@ The goal of this project is to perform **Exploratory Data Analysis (EDA)** on th
 ---
 
 ## 📁 Dataset Information
-
 The project uses three datasets:
 
 - **train.csv** - contains the training set including the target variable `Survived`
